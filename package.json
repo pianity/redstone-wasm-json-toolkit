@@ -18,7 +18,7 @@
   "dependencies": {
     "buffer-pipe": "0.0.3",
     "leb128": "0.0.4",
-    "redstone-isomorphic": "1.1.1"
+    "redstone-isomorphic": "^1.1.8"
   },
   "bin": {
     "wasm2json": "./bin/wasm2json",
